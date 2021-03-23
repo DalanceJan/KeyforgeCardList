@@ -46,7 +46,7 @@
             }
         ],
         "Amber": 0,
-        "Text": "Reap: Deal 1 to a creature. If this damage destroys that creature, your opponent discards a random card from their hand.",
+        "Text": "收穫：對1個生物造成1D。如果本次傷害摧毀了該生物，你的對手棄掉1張隨機手牌。",
         "Rarity": "Common",
         "Type": "creature",
         "Keywords": [],
@@ -1323,7 +1323,7 @@
             }
         ],
         "Amber": 1,
-        "Text": "This creature gets +5 power.",
+        "Text": "本生物獲得+5力量。",
         "Rarity": "Uncommon",
         "Type": "upgrade",
         "Keywords": []
@@ -3170,7 +3170,7 @@
             }
         ],
         "Amber": 0,
-        "Text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)",
+        "Text": "遁行。（每個回合本生物第一次受到攻擊時，不造成和受到任何傷害。）",
         "Rarity": "Uncommon",
         "Type": "creature",
         "Keywords": [],
